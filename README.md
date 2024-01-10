@@ -69,22 +69,3 @@ Hey, it's Grishma, your 2nd-year BTech friend! Welcome to Game Hub, my tech-insp
 ## Getting Started
 
 Follow these instructions to get a copy of the Game Hub up and running on your local machine.
-
-## Installation
-
-1. Clone this repository using: `git clone https://github.com/GRISHMA-GEDELA/game-hub`
-2. Navigate to the project directory: `cd game-hub`
-3. Install required modules: `pip install -r requirements.txt`
-
-## Usage
-
-1. Run the main script: `python game_hub.py`
-2. Follow the prompts to choose and play your desired game.
-3. To quit, select option 7 from the menu.
-
-## Dependencies
-
-The provided Python modules are required to run the Game Hub. Install them using:
-
-```bash
-pip install -r requirements.txt
