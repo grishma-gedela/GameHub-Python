@@ -82,10 +82,6 @@ Follow these instructions to get a copy of the Game Hub up and running on your l
 2. Follow the prompts to choose and play your desired game.
 3. To quit, select option 7 from the menu.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-
 ## Dependencies
 
 The following Python modules are required to run the Game Hub. Install them using:
