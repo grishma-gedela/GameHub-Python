@@ -84,7 +84,7 @@ Follow these instructions to get a copy of the Game Hub up and running on your l
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Dependencies
 
