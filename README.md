@@ -72,7 +72,7 @@ Follow these instructions to get a copy of the Game Hub up and running on your l
 
 ## Installation
 
-1. Clone this repository using: `git clone https://github.com/your-username/game-hub`
+1. Clone this repository using: `git clone https://github.com/GRISHMA-GEDELA/game-hub`
 2. Navigate to the project directory: `cd game-hub`
 3. Install required modules: `pip install -r requirements.txt`
 
