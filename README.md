@@ -68,4 +68,10 @@ Hey, it's Grishma, your 2nd-year BTech friend! Welcome to Game Hub, my tech-insp
 
 ## Getting Started
 
-Follow these instructions to get a copy of the Game Hub up and running on your local machine.
+Download the source code:[GameHub Project](https://github.com/GRISHMA-GEDELA/GameHub-Python.git)
+
+Run the script and have fun!
+
+Thank you!
+
+Developed by: Grishma Gedela (GRISHMA-GEDELA, GameHub)
