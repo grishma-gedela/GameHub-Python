@@ -84,7 +84,7 @@ Follow these instructions to get a copy of the Game Hub up and running on your l
 
 ## Dependencies
 
-The following Python modules are required to run the Game Hub. Install them using:
+The provided Python modules are required to run the Game Hub. Install them using:
 
 ```bash
 pip install -r requirements.txt
