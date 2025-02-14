@@ -18,7 +18,7 @@ Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**,
 ✔ **Replayable Fun** – Challenge yourself or friends **again and again**!  
 
 ---
-<br><br>
+<br>
 ## 🕹️ How to Play
 
 ### 🎯 Rock Paper Scissors
