@@ -21,22 +21,22 @@ Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**,
 ## 🕹️ How to Play
 
 ### 🎯 Rock Paper Scissors
-**How to Play:** Choose **rock, paper, or scissors** and compete against the computer.
+-- **How to Play:** Choose **rock, paper, or scissors** and compete against the computer.
 
 ### 🎯 Guess the Number
-**How to Play:** **Guess the correct number** and see if it matches the randomly generated number.
+--**How to Play:** **Guess the correct number** and see if it matches the randomly generated number.
 
 ### 🎯 General Knowledge Quiz
-**How to Play:** Answer a series of questions and see **how many you can get right**.
+--**How to Play:** Answer a series of questions and see **how many you can get right**.
 
 ### 🎯 Hangman Game
-**How to Play:** **Guess the hidden word** within a limited number of attempts.
+--**How to Play:** **Guess the hidden word** within a limited number of attempts.
 
 ### 🎯 Tic Tac Toe
-**How to Play:** **Make strategic moves** to get **three in a row** and win the game.
+--**How to Play:** **Make strategic moves** to get **three in a row** and win the game.
 
 ### 🎯 Anagram Solver
-**How to Play:** Input a set of letters, and the program will find all **possible anagrams**.
+--**How to Play:** Input a set of letters, and the program will find all **possible anagrams**.
 
 ---
 ## 🎯 Why I Developed This
